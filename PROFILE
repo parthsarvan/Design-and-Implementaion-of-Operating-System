@@ -1,0 +1,5 @@
+HOME=/home/
+PATH=/bin:/usr/bin
+PROMPT=$
+ALARM=ON
+TIME=5
